@@ -38,7 +38,7 @@ main{
 }
 .list{
   margin: 2rem auto;
-  padding: 2rem 2.5rem;
+  padding: 2rem 0rem;
   max-width: 1228px;
   display: grid;
   grid-template-columns: repeat(auto-fill,minmax(300px,1fr));
